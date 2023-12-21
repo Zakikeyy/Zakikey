@@ -142,6 +142,11 @@ a:hover {
   margin-top: 4rem;
 }
 
+.splide__slide img {
+  width: 100%;
+  height: auto;
+}
+
 /*--/ Title s /--*/
 .title-s {
   font-weight: 600;
