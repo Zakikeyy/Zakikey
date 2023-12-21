@@ -100,7 +100,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #000000;
 }
 
 .overlay-mf {
@@ -110,7 +110,7 @@ a:hover {
   padding: 0;
   height: 100%;
   width: 100%;
-  opacity: 0.7;
+  opacity: 0.9;
 }
 
 .paralax-mf {
@@ -169,7 +169,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: #1d1d1d;
   margin: 0 auto;
 }
 
@@ -187,7 +187,7 @@ a:hover {
   content: "";
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: #161616;
   width: 100px;
   bottom: -12px;
 }
@@ -228,12 +228,12 @@ a:hover {
   border-radius: 50%;
   line-height: 1.6;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #0078ff;
+  box-shadow: 0 0 0 3px #1d1d1d;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #0078ff;
+  background-color: #1d1d1d;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
@@ -257,7 +257,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #0078ff;
+  color: #1d1d1d;
   margin-right: 10px;
 }
 
@@ -270,7 +270,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #0078ff;
+  box-shadow: 0 0 0 10px #1d1d1d;
   display: block;
 }
 
@@ -315,7 +315,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #0078ff;
+  background-color: #1d1d1d;
   opacity: 0.7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -576,7 +576,7 @@ a:hover {
   padding: 10px 20px;
   font-size: 14px;
   text-transform: none;
-  color: #4e4e4e;
+  color: #1d1d1d;
 }
 
 .navbar .dropdown ul a i {
@@ -586,7 +586,7 @@ a:hover {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #0078ff;
+  color: #131313;
 }
 
 .navbar .dropdown:hover>ul {
@@ -691,7 +691,7 @@ a:hover {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #0078ff;
+  color: #161616;
 }
 
 .navbar-mobile .getstarted,
@@ -806,7 +806,7 @@ a:hover {
 
 .hero-single .breadcrumb {
   background-color: transparent;
-  color: #0078ff;
+  color: #1a1a1a;
 }
 
 .hero-single .breadcrumb .breadcrumb-item:before {
@@ -857,7 +857,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #0078ff;
+  background-color: #ff0000;
 }
 
 /*--------------------------------------------------------------
@@ -874,7 +874,7 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #0078ff;
+  background-color: #202020;
   box-shadow: 0 0 0 10px #cde1f8;
 }
 
@@ -969,17 +969,17 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #0078ff;
+  color: #1b1b1b;
 }
 
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #0078ff;
+  color: #202020;
   float: right;
 }
 
 .work-content .w-like a {
-  color: #0078ff;
+  color: #1a1a1a;
 }
 
 .work-content .w-like .num-like {
@@ -1011,11 +1011,11 @@ a:hover {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #0078ff;
+  border: 1px solid #333333;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #0078ff;
+  background-color: #2c2c2c;
 }
 
 .portfolio-details .portfolio-info {
@@ -1082,7 +1082,7 @@ a:hover {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #0078ff;
+  color: #272727;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -1203,7 +1203,7 @@ a:hover {
 }
 
 .php-email-form button[type=submit] {
-  background: #0078ff;
+  background: #363636;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1211,7 +1211,7 @@ a:hover {
 }
 
 .php-email-form button[type=submit]:hover {
-  background: #3393ff;
+  background: #000000;
 }
 
 @keyframes animate-loading {
@@ -1446,7 +1446,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: #000000;
 }
 
 footer .copyright {
